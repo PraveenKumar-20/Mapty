@@ -10,3 +10,7 @@ Mapty is a fitness tracking application that allows users to log and track their
 - Display workouts on an interactive map.
 - View workout details such as distance, duration, and date.
 - User authentication for personalized experience.
+
+## Demo
+
+- Try Mapty https://mapty-praveen.netlify.app/
